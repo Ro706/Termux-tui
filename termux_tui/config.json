@@ -1,0 +1,8 @@
+{
+    "theme": {
+        "primary_color": "cyan",
+        "secondary_color": "magenta",
+        "background_color": "black",
+        "text_color": "white"
+    }
+}
